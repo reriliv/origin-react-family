@@ -1,0 +1,12 @@
+.log-list{width:100%;border-collapse:collapse;}
+.log-list td{padding:10px;color:#333;text-align:center;font-size:14px;border:1px solid #ddd;}
+.log-list thead td{font-weight:bold;}
+.pagination{margin-top:10px;float:right;}
+.rg-text{padding-left:10px;}
+.mid-text{padding:10px;}
+.lf-text,.rg-text,.mid-text{height:30px;line-height:30px;}
+.user-inp{width:200px;}
+.col{display:inline-block;}
+.ensure,.cancel{margin-left:10px;}
+.row{padding: 0 0 10px 0;}
+

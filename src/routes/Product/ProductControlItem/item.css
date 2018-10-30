@@ -1,0 +1,4 @@
+.product-control-item{ display: inline-flex; justify-content: space-between; align-items: center; margin: 3px 0; margin-right: 15px; }
+.product-control-name{ display: inline-block; padding: 2px 7px; }
+
+.product-control-list{ display: flex; justify-content: flex-start; align-items: flex-start; flex-wrap: wrap; position: relative; padding: 7px 15px; width: calc(100% - 180px); min-height: 100%; height: 48px; overflow: hidden; }

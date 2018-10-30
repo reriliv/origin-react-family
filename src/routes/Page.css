@@ -1,0 +1,17 @@
+
+.layout-header{ display: flex; justify-content: space-between; align-items: center; padding: 0; width: 100%; }
+.header-logo{ display: block; width: 200px; height: 100%; text-align: center; }
+.header-left{ display: inline-flex; justify-content: space-between; align-items: center; width: 300px; }
+.header-right{ display: inline-flex; justify-content: space-around; align-items: center; width: 375px; height: 100%; }
+.header-bars, .header-menu, .reload, .menu-toggle{ display: block; padding: 5px; font-size: 24px; color: #fff; cursor: pointer; }
+.reload, .menu-toggle{ font-size: 20px; }
+.news{ min-width: 66px; }
+.user-menu{  }
+.exit, .info, .reset-code{text-align: center; }
+.user{ display: block; padding: 0 5px; min-width: 80px; height: 100%; }
+.user-caret-down{ font-size: 12px; color: #fff; }
+.username{ color: #fff; font-size: 14px; font-style: normal; }
+.menu-down{ display: block; padding: 0 15px; min-width: 85px; height: 100%; text-align: center; }
+/*.menu-down:hover, .user:hover{ background: rgba(255, 255, 255, .5); }*/
+.mail{ display: block; font-size: 20px !important; color: #fff; }
+.caret-down{ display: block; font-size: 12px; color: #fff; }

@@ -4,6 +4,7 @@ import Hello from './components/Hello/Hello';
 import {AppContainer} from 'react-hot-loader';
 import {Provider} from 'react-redux';
 import store from './redux/store';
+import 'antd/dist/antd.css';
 
 // import router from './router';
 

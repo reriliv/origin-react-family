@@ -1,0 +1,17 @@
+.manage-list{width: 100%;border-collapse: collapse;}
+.manage-list td{padding: 10px;color: #333;text-align: center;font-size: 14px;border: 1px solid #ddd;}
+.manage-list thead th{font-weight: bold;text-align: center;}
+.pagination{margin: 20px 0 0 0;text-align: right;}
+.edit{margin-right: 10px;}
+.select_menu{padding: 0 0 10px 0;}
+.top-btn{border-radius: 0!important;}
+.search{width: 200px;}
+.role-text{margin: 0 5px 0 5%;}
+.keywords{margin: 0 5px 0 0;}
+.ensure,.cancel{margin-left: 10px;}
+.plus,.start-using{float: right;}
+.start-using,.reset{margin-left: 10px;}
+.user-name,.real-name{width: 200px;}
+.tab-btns{width: 100%;height: 50px;border-top: 1px solid #ddd;border-bottom: 1px solid #ddd;margin-bottom: 10px;}
+.all,.normal,.stop,.lock{height: 48px;border:none;border-radius: 0;}
+.cur{border-bottom: 2px solid #1890fe;}

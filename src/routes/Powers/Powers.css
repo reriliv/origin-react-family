@@ -1,0 +1,15 @@
+.power-list{width: 100%;border-collapse: collapse;}
+.power-list td{padding: 10px;color: #333;text-align: center;font-size: 14px;border: 1px solid #ddd;}
+.power-list thead th{font-weight: bold;text-align: center;}
+.pagination{margin: 20px 0 0 0;text-align: right;}
+.edit,.add{margin-right: 10px;}
+.select_menu{padding: 0 0 10px 0;}
+.top-btn{border-radius: 0!important;}
+.menu-arigin,.menu-name{width: 200px;}
+.icon-name{width: 120px;}
+.system-icon-name,.search-icons{width: 80px;margin-left: 10px;}
+.search-icons{padding: 0;}
+.menu-down-rg{float: right;margin-top: 5px;}
+.range-inp{width: 60px;height: 30px;line-height: 30px;}
+
+
